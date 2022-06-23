@@ -1,2 +1,2 @@
 consolo.log("Adios mundo");
-let num = 5;
+let num = 10;
